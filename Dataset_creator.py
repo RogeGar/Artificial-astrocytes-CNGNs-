@@ -17,8 +17,6 @@ import torch
 import torchvision.transforms as transforms
 import torchvision
 
-#main_dir='C:/Users/Rogelio Garcia/Documents/Doctorado/Medical image datasets/kvasir-dataset-v2'
-
 
 def get_classes(main_dir): 
     classes = []
