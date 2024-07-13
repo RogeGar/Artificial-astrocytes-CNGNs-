@@ -1,5 +1,3 @@
-We provide all the scripts required to train the CNNs using the proposed artificial astrocyte.
-
 The NeuronGlia unit can, in theory, work for any CNN. To introduce the unit to a CNN architecture, use the function "transform_architecture" of the NeuronGlia script.
 
 Example:
