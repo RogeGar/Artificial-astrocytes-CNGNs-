@@ -9,9 +9,6 @@ import torch
 import torchvision
 import numpy as np
 import pandas as pd
-import sys
-sys.path.append('C:/Users/Rogelio Garcia/Documents/Doctorado/8 semestre/Artificial astrocyte ICML2024')
-
 import Dataset_creator
 import NeuronGliaUnit
 import Performance_metrics_CNGN
